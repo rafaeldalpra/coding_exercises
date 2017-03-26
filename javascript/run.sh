@@ -1,0 +1,1 @@
+docker run --rm -i -t -v $(pwd):/usr/src/app -w /usr/src/app nacyot/javascript-rhino:apt rhino print_me.js
