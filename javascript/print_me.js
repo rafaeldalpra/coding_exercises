@@ -1,12 +1,12 @@
 function print_me(){
-	for(var i = 0; i < arguments.length; i++){
-		var arg = arguments[i];
-		if(arg.constructor === Array){
-			print_me.apply(null, arg);
-		}else{
-			print(arg);	
-		}		
-	}
+  for(var i = 0; i < arguments.length; i++){
+    var arg = arguments[i];
+    if(arg.constructor === Array){
+      print_me.apply(null, arg);
+    }else{
+      print(arg); 
+    }   
+  }
 }
 
 print("1 argument:");
