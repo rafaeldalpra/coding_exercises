@@ -24,7 +24,7 @@
 
 > Both options will output the test results from the `test.rb`file.
 
-##Javascript print_me()
+## Javascript print_me()
 
 ### To run the tests with Docker (Rhino):
 
