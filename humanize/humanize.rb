@@ -1,7 +1,7 @@
 # Monkeypath to convert numbers into words
 class Numeric
   NUMBER_NAMES = {
-    1000000000 => "trillion",
+    1000000000 => "billion",
     1000000 => "million",
     1000 => "thousand",
     100 => "hundred",
