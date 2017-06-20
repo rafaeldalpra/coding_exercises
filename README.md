@@ -1,4 +1,4 @@
-# Storyful Coding Exercises
+# Coding Exercises
 
 ## Convert Number to Roman Algorism
 
